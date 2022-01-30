@@ -6,8 +6,8 @@
 	<h1>Hello World! from Unus</h1>
 	<p>
 		It is now
-		<%= ne w java.util.Date() %></p>
+		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
-		<%= request.getRemoteAddr()  %></p>
+		<%= request.getRemo teAddr()  %></p>
 </body>
