@@ -1,3 +1,2 @@
 Hello Artifactory and Maven
 Hello from Unus
-Hello again
