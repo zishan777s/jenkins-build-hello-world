@@ -1,3 +1,3 @@
 Hello Artifactory and Maven
 
-This is Accenture training
+This is HPE training
