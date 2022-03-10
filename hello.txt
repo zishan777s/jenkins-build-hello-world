@@ -1,3 +1,5 @@
 Hello Artifactory and Maven
 
 This is HPE training
+
+Today is March 11th.
