@@ -2,4 +2,4 @@ Hello Artifactory and Maven
 
 This is webinar
 
-Today is March 22nd.
+Today is March 23rd wednesday
