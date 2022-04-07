@@ -1,5 +1,3 @@
 Hello Artifactory and Maven
 
-This is webinar
-
-Today is March 23rd wednesday
+Today is April 07th Thursday
