@@ -3,7 +3,7 @@
 <title>Hello World! from Unus</title>
 </head>
 <body>
-	<h1>This is our last lab for this course!!</h1>
+	<h1>This is our CI CD Lab on April 29th !!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
