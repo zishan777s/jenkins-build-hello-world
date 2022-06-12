@@ -8,6 +8,15 @@
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
 
+	<dependencies>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>4.12</version>
+                <scope>test</scope>
+            </dependency>
+        </dependencies>
+	
 	<build>
 		<plugins>
 			<plugin>
