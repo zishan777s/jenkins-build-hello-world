@@ -1,4 +1,3 @@
 Hello World! from Unus
 
-Today is May 12th
-June 6th
+Today is June 12th
