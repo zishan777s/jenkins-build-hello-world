@@ -3,7 +3,7 @@
 <title>Hello World! from Unus</title>
 </head>
 <body>
-	<h1>Welcome to AWS DevOps Training on Wednesday Nov26!!</h1>
+	<h1>Welcome to AWS DevOps Training on Wednesday Nov22!!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
