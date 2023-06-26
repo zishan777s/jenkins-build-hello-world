@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: corretto11  # Amazon Corretto is a no-cost, multiplatform, production-ready 
+      java: corretto17  # Amazon Corretto is a no-cost, multiplatform, production-ready 
                         # distribution of the Open Java Development Kit (OpenJDK)
   pre_build:
     commands:
